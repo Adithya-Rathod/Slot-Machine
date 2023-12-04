@@ -1,0 +1,10 @@
+npm init -> create a package.json file
+
+press enter for everything
+
+then,
+
+npm i prompt-sync
+used to give user input
+
+boom now we can start writing the code...
